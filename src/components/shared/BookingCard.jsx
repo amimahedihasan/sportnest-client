@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { MdAccessTime, MdSportsVolleyball } from "react-icons/md";
 import { CiLocationOn } from "react-icons/ci";
-import BookingDeleteModal from "/BookingDeleteModal";
+import BookingDeleteModal from "./BookingDeleteModal";
 import { IoBookmarksOutline } from "react-icons/io5";
 import { Chip } from "@heroui/react";
 import { Clock } from "@gravity-ui/icons";
