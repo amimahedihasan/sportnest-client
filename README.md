@@ -22,16 +22,16 @@ A full-stack sports facility booking platform where users can explore, book, and
 
 ## ✨ Features
 
-- 🔍 Browse all sports facilities (football, cricket, badminton, tennis, etc.)
-- 🔐 Authentication system (login / signup)
-- 🏟️ Add new sports facilities (Authenticated Users only)
-- 🛠️ Update or delete own facilities
-- 📅 Book facilities with date & time slots
-- ❌ Cancel bookings anytime
-- 🎠 Smooth sliders and interactive UI components
-- 🔔 Toast notifications for actions
-- 📱 Fully responsive design (mobile + desktop)
-- ⚡ Modern UI animations and transitions
+-  Browse all sports facilities (football, cricket, badminton, tennis, etc.)
+-  Authentication system (login / signup)
+-  Add new sports facilities (Authenticated Users only)
+-  Update or delete own facilities
+-  Book facilities with date & time slots
+-  Cancel bookings anytime
+-  Smooth sliders and interactive UI components
+-  Toast notifications for actions
+-  Fully responsive design (mobile + desktop)
+-  Modern UI animations and transitions
 
 ---
 
